@@ -1,0 +1,44 @@
+h1
+{
+	font-size: 32;
+	color: black;
+	font-family: Times New Roman, sans-serif;
+	text-align: left;
+	
+}
+
+h2, hr
+{
+	color: black;
+	font-size: 24px;
+	font-family: Times New Roman;
+}
+
+h3  
+{
+	font-size: 18px;
+}
+
+em
+{
+	color: black; 
+}
+
+.introduction
+{
+	color: black;
+	text-align: left;
+}
+
+p
+{
+	font-family: Times New Roman, sans-serif;
+	text-align: normal;
+}
+
+
+body
+{
+	background-color: white;
+	text-align: normal;
+}
